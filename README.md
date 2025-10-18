@@ -1,11 +1,11 @@
-# Hey I'm Marcus, a full-stack product engineer in Applied AI! 👋
+# Hey I'm Marcus, a full-stack product engineer 👋
 
 [![Website](https://img.shields.io/website?label=marcusmelconian.com&style=for-the-badge&url=https%3A%2F%2Fmarcusmelconian.com)](https://marcusmelconian.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusmelconian/)
 
 ## About Me 👨‍💻
 - Lead AI Engineer at Globebyte building 0→1 enterprise AI products.
-- Former startup founder (Shirinoku) with a sucessful exit in 2023.
+- Former startup founder with a sucessful exit in 2023.
 - MEng Design Engineering graduate from Imperial College London.
 - Love shipping fast: from prototype to production in weeks.
 - Want to know more? Chat to my AI Agent: [marcusmelconian.com](https://marcusmelconian.com)
@@ -31,8 +31,6 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## Let's Connect! 📫
