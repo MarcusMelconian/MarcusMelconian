@@ -36,5 +36,5 @@
 ## Let's Connect! 📫
 - 🌐 Portfolio: [marcusmelconian.com](https://www.marcusmelconian.com)
 - 💼 LinkedIn: [Connect](https://www.linkedin.com/in/marcus-melconian/)
-- 📧 Email: [marcus@melconian.com](mailto:marcus@melconian.com)
+- 📧 Email: [marcusmelconian@gmail.com](mailto:marcusmelconian@gmail.com)
 - 🐙 GitHub: You're already here!
