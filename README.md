@@ -8,7 +8,7 @@
 - Former startup founder with a sucessful exit in 2023.
 - MEng Design Engineering graduate from Imperial College London.
 - Love shipping fast: from prototype to production in weeks.
-- Want to know more? Chat to my AI Agent: [marcusmelconian.com](https://marcusmelconian.com)
+- Want to know more? Chat to my AI Agent: [marcusmelconian.com](https://www.marcusmelconian.com)
 
 ## What I'm working on now 💻
 - Building LLM-powered solutions for enterprise education using Agentic workflows & MCP.
