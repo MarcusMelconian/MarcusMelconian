@@ -1,7 +1,7 @@
 # Hey I'm Marcus, a full-stack product engineer 👋
 
 [![Website](https://img.shields.io/website?label=marcusmelconian.com&style=for-the-badge&url=https%3A%2F%2Fwww.marcusmelconian.com)](https://www.marcusmelconian.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcusmelconian/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-melconian/)
 
 ## About Me 👨‍💻
 - Lead AI Engineer at Globebyte building 0→1 enterprise AI products.
